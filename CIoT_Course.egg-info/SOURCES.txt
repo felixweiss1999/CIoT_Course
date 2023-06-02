@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+CIoT_Course/__init__.py
+CIoT_Course/api.py
+CIoT_Course.egg-info/PKG-INFO
+CIoT_Course.egg-info/SOURCES.txt
+CIoT_Course.egg-info/dependency_links.txt
+CIoT_Course.egg-info/top_level.txt
